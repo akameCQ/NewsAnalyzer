@@ -2,7 +2,7 @@
 
 A desktop application that collects Bitcoin and cryptocurrency news in real-time from multiple sources and performs AI-powered **Sentiment Analysis** — all wrapped in a modern, sleek Tkinter interface.
 
-![App Screenshot](screenshot.png)
+<img width="1482" height="845" alt="Ekran görüntüsü 2026-05-07 223847" src="https://github.com/user-attachments/assets/79b59c1c-7212-48a6-a7d1-ba5395f6c147" />
 
 ## 🌟 Features
 
